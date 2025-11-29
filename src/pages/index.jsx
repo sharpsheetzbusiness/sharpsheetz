@@ -1,0 +1,1 @@
+import Navbar from '../components/Navbar'; import Footer from '../components/Footer'; export default function Home(){return(<div className='bg-black min-h-screen text-white'><Navbar/><div className='p-10 text-4xl font-bold'>SharpSheetz</div><Footer/></div>);}
